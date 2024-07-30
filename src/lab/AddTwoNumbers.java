@@ -6,8 +6,8 @@ public class AddTwoNumbers {
 		// TODO Auto-generated method stub
 		
 		int a=10; int b=20;
-		int sum = a+b;
-		System.out.println("Sum is " + sum);
+		int result = a+b;
+		System.out.println("Sum is " + result);
 
 	}
 
